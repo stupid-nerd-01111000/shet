@@ -1,4 +1,4 @@
-from pygame import display, event, draw, time 
+from pygame import display, event, draw, time
 import numpy as np
 
 RED = (255, 0, 0)
